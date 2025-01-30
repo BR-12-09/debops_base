@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alb","Source":"git::https://github.com/brikis98/devops-book.git//ch3/tofu/modules/alb","Dir":".terraform/modules/alb/ch3/tofu/modules/alb"},{"Key":"asg","Source":"git::https://github.com/brikis98/devops-book.git//ch3/tofu/modules/asg","Dir":".terraform/modules/asg/ch3/tofu/modules/asg"}]}
